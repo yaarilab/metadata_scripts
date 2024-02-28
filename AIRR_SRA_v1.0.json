@@ -12,7 +12,7 @@
   "instrument_model": null,
   "design_description": "AIRR-seq",
   "filetype": null,
-  "filename": null,
+  "filename": "row_filenames",
   "filename2": "",
   "filename3": "",
   "filename4": "",
@@ -34,5 +34,6 @@
   "paired_read_direction": "sample.sequencing_files.paired_read_direction",
   "sequencing_facility": "sample.sequencing_facility",
   "sequencing_run_date": "sample.sequencing_run_date",
-  "sequencing_kit": "sample.sequencing_kit"
+  "sequencing_kit": "sample.sequencing_kit",
+  "row_filenames": "sample.sequencing_files.filename"
 }

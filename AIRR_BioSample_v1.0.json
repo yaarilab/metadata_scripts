@@ -1,5 +1,6 @@
 {
   "bioproject_accession": "study.study_id",
+  "species": "subject.species",
   "isolate": "subject.subject_id",
   "synthetic": "subject.synthetic",
   "organism": "organism",
@@ -30,6 +31,7 @@
   "biomaterial_provider": "sample.biomaterial_provider",
   "tissue_processing": "sample.tissue_processing",
   "cell_type": "sample.cell_subset",
+  "cell_subset": "cell_subset",
   "cell_phenotype": "sample.cell_phenotype",
   "single_cell": "sample.single_cell",
   "cell_number": "sample.cell_number",
@@ -39,3 +41,4 @@
   "cell_isolation": "sample.cell_isolation",
   "cell_processing_protocol": "sample.cell_processing_protocol"
 }
+
