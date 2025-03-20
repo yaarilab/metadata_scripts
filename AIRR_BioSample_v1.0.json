@@ -1,6 +1,7 @@
 {
 
   "isolate": "subject.subject_id",
+  "sra": "ir_sra_run_id",
   "synthetic": "subject.synthetic",
   "species": "subject.species",
   "sex": "subject.sex",
